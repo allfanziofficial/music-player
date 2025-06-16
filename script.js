@@ -269,7 +269,7 @@ let songs = [
         videoBgSrc: "videos/i_wanna_be_yours_bg.mp4",
         lyrics: [
             { time: 21, text: "I wanna be your vacuum cleaner" },
-            { time: 25, text: "Breathing in your dust" },
+            { time: 25.5, text: "Breathing in your dust" },
             { time: 30, text: "I wanna be your Ford Cortina" },
             { time: 34.5, text: "I will never rust" },
             { time: 38.5, text: "If you like your coffee hot" },
@@ -282,17 +282,17 @@ let songs = [
             { time: 82, text: "I wanna be yours, I wanna be yours" },
             { time: 92, text: "Wanna be yours, wanna be yours, wanna be yours" },
             { time: 100, text: "Let me be your 'leccy meter and I'll never run out" },
-            { time: 104, text: "Let me be the portable heater that you'll get cold without" },
+            { time: 104.5, text: "Let me be the portable heater that you'll get cold without" },
             { time: 108.5, text: "I wanna be your setting lotion (wanna be)" },
             { time: 112.5, text: "Hold your hair in deep devotion (how deep?)" },
             { time: 117.5, text: "At least as deep as the Pacific Ocean" },
             { time: 121, text: "I wanna be yours" },
             { time: 126, text: "Secrets I have held in my heart" },
-            { time: 134, text: "Are harder to hide than I thought" },
-            { time: 142, text: "Maybe I just wanna be yours" },
-            { time: 151, text: "I wanna be yours, I wanna be yours" },
+            { time: 134.5, text: "Are harder to hide than I thought" },
+            { time: 142.5, text: "Maybe I just wanna be yours" },
+            { time: 151.5, text: "I wanna be yours, I wanna be yours" },
             { time: 172, text: "I wanna be your vacuum cleaner (Wanna be yours)" },
-            { time: 176, text: "Breathing in your dust (Wanna be yours)" },
+            { time: 176.5, text: "Breathing in your dust (Wanna be yours)" },
             { time: 181, text: "I wanna be your Ford Cortina (Wanna be yours)" },
             { time: 185, text: "I will never rust (Wanna be yours)" },
             { time: 188.5, text: "I just wanna be yours (Wanna be yours)" },
@@ -309,43 +309,43 @@ let songs = [
         audioSrc: "audio/multo.mp3", 
         videoBgSrc: "videos/multo.mp4", 
         lyrics: [
-            { time: 15.5, text: "Bawat pagpihit ng manibela" },
-            { time: 19.1, text: "Kalsada'y mistulang eksena sa pelikula" },
-            { time: 22.8, text: "'Di mapigilang isipin ka" },
-            { time: 26.5, text: "Lalo na't bumubuhos ang ulan" },
-            { time: 30.1, text: "At nilalamig na ang mga kamay" },
-            { time: 33.7, text: "Sumasayaw sa himig ng iyong ambon" },
-            { time: 37.3, text: "Bumibilog, umiikot, paikot-ikot lang" },
-            { time: 41, text: "Pinapanood ang iyong bawat galaw" },
+            { time: 15.4, text: "Bawat pagpihit ng manibela" },
+            { time: 18.9, text: "Kalsada'y mistulang eksena sa pelikula" },
+            { time: 22.7, text: "'Di mapigilang isipin ka" },
+            { time: 26.2, text: "Lalo na't bumubuhos ang ulan" },
+            { time: 29.8, text: "At nilalamig na ang mga kamay" },
+            { time: 33.5, text: "Sumasayaw sa himig ng iyong ambon" },
+            { time: 37.1, text: "Bumibilog, umiikot, paikot-ikot lang" },
+            { time: 41.2, text: "Pinapanood ang iyong bawat galaw" },
             { time: 44.5, text: "Habang ako'y nalulunod sa 'yong mga tingin" },
-            { time: 48, text: "Pilitin ma'y 'di makawala sa'yo" },
-            { time: 51.5, text: "Bakit ba naman kasi ganito?" },
-            { time: 54.9, text: "'Di na mapakali, 'di na mapalagay" },
-            { time: 59.5, text: "Ang puso kong ito'y bihag mo na, sinta" },
-            { time: 65, text: "Para bang multo, 'di maalis sa isipan ko" },
-            { time: 72.8, text: "Ang 'yong mukha, ang 'yong ngiti, ang lahat sa 'yo" },
-            { time: 79.5, text: "Bawat gabi, sa panaginip ay nando'n ka" },
-            { time: 86.5, text: "Hinahagkan, niyayakap, ngunit 'di mahawakan" },
-            { time: 90.1, text: "Isang multo ng nakaraan, 'di makalimutan" },
-            { time: 97, text: "Nagpaparamdam, ngunit 'di na mababalikan" },
-            { time: 101.5, text: "Pinapanood ang iyong bawat galaw" },
-            { time: 105, text: "Habang ako'y nalulunod sa 'yong mga tingin" },
-            { time: 108.8, text: "Pilitin ma'y 'di makawala sa'yo" },
-            { time: 112.5, text: "Bakit ba naman kasi ganito?" },
-            { time: 116, text: "'Di na mapakali, 'di na mapalagay" },
-            { time: 121, text: "Ang puso kong ito'y bihag mo na, sinta" },
-            { time: 126.9, text: "Para bang multo, 'di maalis sa isipan ko" },
-            { time: 134, text: "Ang 'yong mukha, ang 'yong ngiti, ang lahat sa 'yo" },
-            { time: 140, text: "Bakit ba ganito? Bakit ba lagi kang nandito?" },
-            { time: 144.5, text: "Sa bawat sulok ng aking mundo" },
-            { time: 148, text: "Isang multo, isang multo" },
-            { time: 151.3, text: "Bakit ba ganito? Bakit ba lagi kang nandito?" },
-            { time: 155.5, text: "Sa bawat sulok ng aking mundo" },
-            { time: 158.8, text: "Isang multo, isang multo ka" },
-            { time: 162.8, text: "'Di na mapakali, 'di na mapalagay" },
-            { time: 168.5, text: "Ang puso kong ito'y bihag mo na, sinta" },
-            { time: 173.8, text: "Para bang multo, 'di maalis sa isipan ko" },
-            { time: 181, text: "Ang 'yong mukha, ang 'yong ngiti, ang lahat sa 'yo" }
+            { time: 48.3, text: "Pilitin ma'y 'di makawala sa'yo" },
+            { time: 51.9, text: "Bakit ba naman kasi ganito?" },
+            { time: 55.4, text: "'Di na mapakali, 'di na mapalagay" },
+            { time: 100.1, text: "Ang puso kong ito'y bihag mo na, sinta" },
+            { time: 105.8, text: "Para bang multo, 'di maalis sa isipan ko" },
+            { time: 113.3, text: "Ang 'yong mukha, ang 'yong ngiti, ang lahat sa 'yo" },
+            { time: 119.9, text: "Bawat gabi, sa panaginip ay nando'n ka" },
+            { time: 127.1, text: "Hinahagkan, niyayakap, ngunit 'di mahawakan" },
+            { time: 130.6, text: "Isang multo ng nakaraan, 'di makalimutan" },
+            { time: 137.9, text: "Nagpaparamdam, ngunit 'di na mababalikan" },
+            { time: 142.1, text: "Pinapanood ang iyong bawat galaw" },
+            { time: 145.5, text: "Habang ako'y nalulunod sa 'yong mga tingin" },
+            { time: 149.3, text: "Pilitin ma'y 'di makawala sa'yo" },
+            { time: 152.9, text: "Bakit ba naman kasi ganito?" },
+            { time: 156.4, text: "'Di na mapakali, 'di na mapalagay" },
+            { time: 201.7, text: "Ang puso kong ito'y bihag mo na, sinta" },
+            { time: 207.2, text: "Para bang multo, 'di maalis sa isipan ko" },
+            { time: 214.5, text: "Ang 'yong mukha, ang 'yong ngiti, ang lahat sa 'yo" },
+            { time: 221, text: "Bakit ba ganito? Bakit ba lagi kang nandito?" },
+            { time: 225, text: "Sa bawat sulok ng aking mundo" },
+            { time: 228.6, text: "Isang multo, isang multo" },
+            { time: 232, text: "Bakit ba ganito? Bakit ba lagi kang nandito?" },
+            { time: 236, text: "Sa bawat sulok ng aking mundo" },
+            { time: 239.3, text: "Isang multo, isang multo ka" },
+            { time: 243.3, text: "'Di na mapakali, 'di na mapalagay" },
+            { time: 249, text: "Ang puso kong ito'y bihag mo na, sinta" },
+            { time: 254.3, text: "Para bang multo, 'di maalis sa isipan ko" },
+            { time: 301.7, text: "Ang 'yong mukha, ang 'yong ngiti, ang lahat sa 'yo" }
         ]
     },
     {
@@ -402,6 +402,7 @@ let currentSongIndex = 0;
 let isPlaying = false;
 let isShuffle = false;
 let repeatMode = 0; // 0: no repeat, 1: repeat one, 2: repeat all
+let currentActiveLyricIndex = -1; // Variabel untuk melacak lirik aktif
 
 // --- Page Navigation ---
 function showHomePage() {
@@ -451,7 +452,7 @@ function showPlayerPage() {
             backgroundVideo.src = currentSong.videoBgSrc;
             backgroundVideo.load();
         }
-        backgroundVideo.play().catch(e => console.error("Error playing video background:", e));
+        if(isPlaying) backgroundVideo.play().catch(e => console.error("Error playing video background:", e));
     } else {
         backgroundVideo.src = "";
         backgroundVideo.load();
@@ -469,7 +470,7 @@ function renderSongList() {
         const listItem = document.createElement('li');
         listItem.setAttribute('data-id', song.id);
         listItem.innerHTML = `
-            <img src="${song.albumArtUrl}" alt="${song.title}" class="song-art-list">
+            <img src="${song.albumArtUrl}" alt="${song.title}" class="song-art-list" onerror="this.onerror=null;this.src='https://placehold.co/50x50/3a3a4e/e0e0e0?text=Art';">
             <div class="song-info-list">
                 <h3>${song.title}</h3>
                 <p>${song.artist}</p>
@@ -479,7 +480,6 @@ function renderSongList() {
             currentSongIndex = index;
             loadSong(songs[currentSongIndex]);
             playTrack();
-            showPlayerPage();
         });
 
         listItem.addEventListener('mouseenter', () => {
@@ -509,17 +509,13 @@ function renderSongList() {
 function loadSong(song) {
     if (!song) {
         console.error("Lagu tidak ditemukan!");
-        albumArtPlayer.src = "https://placehold.co/100x100/3a3a4e/e0e0e0?text=Error";
-        playerTrackTitle.textContent = "Lagu Tidak Tersedia";
-        playerTrackArtist.textContent = "-";
-        lyricsContainer.innerHTML = "<p>Lirik tidak tersedia.</p>";
-        audioPlayer.src = "";
-        playerCurrentTime.textContent = "0:00";
-        playerTotalDuration.textContent = "0:00";
-        playerProgressBar.style.width = "0%";
         return;
     }
+    currentActiveLyricIndex = -1; // Reset lirik aktif setiap ganti lagu
     albumArtPlayer.src = song.albumArtUrl;
+    albumArtPlayer.onerror = () => {
+        albumArtPlayer.src = "https://placehold.co/100x100/3a3a4e/e0e0e0?text=Art+Error";
+    };
     playerTrackTitle.textContent = song.title;
     playerTrackArtist.textContent = song.artist;
     
@@ -532,7 +528,7 @@ function loadSong(song) {
     };
     audioPlayer.load();
     updatePlayPauseIcon();
-    showPlayerPage(); // Pastikan background video diperbarui saat lagu di-load
+    showPlayerPage(); 
 }
 
 function renderLyrics(lyrics) {
@@ -563,7 +559,9 @@ function playTrack() {
     }
     isPlaying = true;
     audioPlayer.play().catch(error => console.error("Error saat play:", error));
-    backgroundVideo.play().catch(e => console.error("Error playing video background on track play:", e));
+    if (backgroundVideo.src) {
+        backgroundVideo.play().catch(e => console.error("Error playing video background on track play:", e));
+    }
     updatePlayPauseIcon();
 }
 
@@ -605,10 +603,17 @@ function nextTrackLogic() {
     
     if (isShuffle) {
         playRandomTrack();
-    } else {
-        currentSongIndex = (currentSongIndex + 1) % songs.length;
+    } else if (currentSongIndex < songs.length - 1) {
+        currentSongIndex++;
         loadSong(songs[currentSongIndex]);
         playTrack();
+    } else {
+        // Jika lagu terakhir dan tidak repeat-all, berhenti
+        currentSongIndex = 0;
+        loadSong(songs[currentSongIndex]);
+        pauseTrack();
+        audioPlayer.currentTime = 0;
+        updateProgressBar();
     }
 }
 
@@ -626,42 +631,64 @@ function playRandomTrack() {
     playTrack();
 }
 
+// =================================================================
+// ===== LOGIKA SINKRONISASI LIRIK YANG TELAH DIPERBAIKI TOTAL =====
+// =================================================================
 audioPlayer.addEventListener('timeupdate', () => {
-    if (audioPlayer.duration) {
-        const progressPercent = (audioPlayer.currentTime / audioPlayer.duration) * 100;
-        playerProgressBar.style.width = `${progressPercent}%`;
-        playerCurrentTime.textContent = formatTime(audioPlayer.currentTime);
-        
-        const currentTime = audioPlayer.currentTime;
-        const lyricLines = lyricsContainer.querySelectorAll('.lyric-line');
-        let highlightedLine = null;
+    if (!audioPlayer.duration) return;
 
-        lyricLines.forEach((line, index) => {
-            const lineTime = parseFloat(line.getAttribute('data-time'));
-            let nextLineTime = Infinity; 
-            if (index + 1 < lyricLines.length) {
-                nextLineTime = parseFloat(lyricLines[index + 1].getAttribute('data-time'));
-            }
+    updateProgressBar();
+    syncLyrics();
+});
 
-            if (currentTime >= lineTime && currentTime < nextLineTime) {
-                line.classList.add('highlight');
-                highlightedLine = line;
-            } else {
-                line.classList.remove('highlight');
-            }
-        });
+function updateProgressBar() {
+    const progressPercent = (audioPlayer.currentTime / audioPlayer.duration) * 100;
+    playerProgressBar.style.width = `${progressPercent}%`;
+    playerCurrentTime.textContent = formatTime(audioPlayer.currentTime);
+}
 
-        if (highlightedLine) {
-            const containerRect = lyricsContainer.getBoundingClientRect();
-            const lineRect = highlightedLine.getBoundingClientRect();
-            const isOutsideView = lineRect.top < containerRect.top || lineRect.bottom > containerRect.bottom;
+function syncLyrics() {
+    const lyricLines = lyricsContainer.querySelectorAll('.lyric-line');
+    if (lyricLines.length === 0) return;
 
-            if (isOutsideView) {
-                highlightedLine.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
+    const currentTime = audioPlayer.currentTime;
+    
+    // Cari index baris lirik yang seharusnya aktif
+    let newActiveIndex = -1;
+    for (let i = 0; i < lyricLines.length; i++) {
+        const lineTime = parseFloat(lyricLines[i].getAttribute('data-time'));
+        // Cek apakah waktu saat ini sudah melewati waktu lirik
+        if (currentTime >= lineTime) {
+            newActiveIndex = i;
+        } else {
+            // Jika belum, hentikan loop karena lirik selanjutnya pasti belum waktunya
+            break;
         }
     }
-});
+    
+    // Jika baris aktif berubah, perbarui tampilan
+    if (newActiveIndex !== currentActiveLyricIndex) {
+        // Hapus highlight dari baris yang lama (jika ada)
+        if (currentActiveLyricIndex !== -1) {
+            lyricLines[currentActiveLyricIndex].classList.remove('highlight');
+        }
+
+        // Tambahkan highlight ke baris yang baru (jika ada)
+        if (newActiveIndex !== -1) {
+            const activeLine = lyricLines[newActiveIndex];
+            activeLine.classList.add('highlight');
+            
+            // Auto-scroll agar lirik di tengah
+            activeLine.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+        
+        // Simpan index baris aktif yang baru
+        currentActiveLyricIndex = newActiveIndex;
+    }
+}
+// =================================================================
+// =================== AKHIR BLOK PERBAIKAN ========================
+// =================================================================
 
 function formatTime(seconds) {
     const minutes = Math.floor(seconds / 60);
@@ -674,6 +701,9 @@ playerProgressBarContainer.addEventListener('click', (e) => {
     const width = playerProgressBarContainer.clientWidth;
     const clickX = e.offsetX;
     audioPlayer.currentTime = (clickX / width) * audioPlayer.duration;
+    // Setelah seek, paksa sinkronisasi ulang lirik
+    currentActiveLyricIndex = -1; // Reset agar syncLyrics() bekerja penuh
+    syncLyrics();
 });
 
 playerVolumeSlider.addEventListener('input', (e) => {
@@ -724,8 +754,6 @@ playerNextBtn.addEventListener('click', nextTrackLogic);
 
 audioPlayer.addEventListener('ended', () => {
     if (repeatMode === 1) {
-        // Ditangani oleh audioPlayer.loop = true;
-        // Cukup putar ulang video jika ada
         if(backgroundVideo.src) {
             backgroundVideo.currentTime = 0;
             backgroundVideo.play();
@@ -739,9 +767,14 @@ backToHomeFromDetailBtn.addEventListener('click', showHomePage);
 backToHomeBtn.addEventListener('click', showHomePage);
 
 playFromDetailBtn.addEventListener('click', () => {
-    loadSong(songs[currentSongIndex]);
-    playTrack();
-    showPlayerPage();
+    // Cari index berdasarkan data yang ditampilkan di detail page
+    const detailTitle = detailTrackTitle.textContent;
+    const songIndex = songs.findIndex(song => song.title === detailTitle);
+    if(songIndex !== -1){
+        currentSongIndex = songIndex;
+        loadSong(songs[currentSongIndex]);
+        playTrack();
+    }
 });
 
 // --- Initialization ---
@@ -749,16 +782,9 @@ function init() {
     renderSongList();
     
     if (songs.length > 0) {
-        // Load lagu pertama tapi jangan langsung putar, hanya siapkan info
         const initialSong = songs[currentSongIndex];
-        albumArtPlayer.src = initialSong.albumArtUrl;
-        playerTrackTitle.textContent = initialSong.title;
-        playerTrackArtist.textContent = initialSong.artist;
-        renderLyrics(initialSong.lyrics);
-        audioPlayer.src = initialSong.audioSrc;
-        audioPlayer.onloadedmetadata = () => {
-             playerTotalDuration.textContent = formatTime(audioPlayer.duration);
-        };
+        loadSong(initialSong); // Load lagu pertama
+        pauseTrack(); // Tapi pastikan dalam keadaan pause
     } else {
         albumArtPlayer.src = "https://placehold.co/100x100/3a3a4e/e0e0e0?text=Musik";
         playerTrackTitle.textContent = "Tidak Ada Lagu";
@@ -768,7 +794,6 @@ function init() {
     audioPlayer.volume = playerVolumeSlider.value;
     audioPlayer.playbackRate = parseFloat(playerSpeedSlider.value);
     currentSpeedDisplay.textContent = `${audioPlayer.playbackRate.toFixed(2)}x`;
-    updatePlayPauseIcon();
     updateRepeatButtonUI();
     showHomePage();
 }
